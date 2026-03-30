@@ -6,7 +6,7 @@ GenAI product that generates personalized, ATS-optimized cover letters using Lan
 
 ## Features
 
-- **4 tone styles** — Formal 🎩, Confident 💪, Casual 😊, Enthusiastic 🚀 — each with distinct voice instructions
+- **4 tone styles** — Formal , Confident , Casual , Enthusiastic  — each with distinct voice instructions
 - **FAISS semantic matching** — finds resume experience most relevant to the JD
 - **JD analysis** — extracts role, company, requirements, and detected tone
 - **Regenerate with feedback** — quick chips + custom text to refine the letter
